@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shahid Islam</h1>
 <h3 align="center">A passionate Software Engineer with a focus on Backend Engineering</h3>
 
-- 🔭 I’m currently working on **multi-tenant, event-driven microservices**
+- 🔭 I’m currently working on **multi-tenant SaaS, event-driven microservices**
 
 - 🌱 I’m currently learning **Cloud Infrastructure and DevOps practices**
 
-- 💬 Ask me about **Node.js, Go(Go lang), Java, and Microservices architecture**
+- 💬 Ask me about **Node.js, Go(Go lang), Java, Spring and Microservices architecture**
 
 - 📫 How to reach me **khanshahid9283@gmail.com**
 
-- ⚡ Fun fact **Event-driven systems can reduce dependencies and improve system reliability**
+- ⚡ Fun fact *HTML is not a programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
