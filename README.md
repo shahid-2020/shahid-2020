@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khanshahid9283@gmail.com**
 
-- ⚡ Fun fact *HTML is not a programming language**
+- ⚡ Fun fact **HTML is not a programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
